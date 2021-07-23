@@ -7,7 +7,7 @@ You can managed and do CRUD in the entities that make up the app.*
 ## Team
 *The app was created in  6 weeks on a team of 9 people, we worked with agile methodology SCRUM.*
 
-## Technologíes   
+## Technologies   
     We used the next technologies: 
     Java, Spring Framework, Hibernate, JPA, Postman and Swagger, JUnit and Mockito, JIRA, git, MySQL.
 
