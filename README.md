@@ -9,7 +9,7 @@ You can managed and do CRUD in the entities that make up the app.*
 
 ## Technologíes   
     We used the next technologies: 
-    Spring Framework, Hibernate, JPA, Postman and Swagger, JUnit and Mockito, JIRA, git, MySQL, 
+    Java, Spring Framework, Hibernate, JPA, Postman and Swagger, JUnit and Mockito, JIRA, git, MySQL.
 
 <code><img height="35" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
 <code><img height="35" src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/spring.svg"></code>
